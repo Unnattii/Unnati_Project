@@ -1,1 +1,5 @@
-# Python file
+hy i am chhiti
+division of 2 numbers 
+a = int(input())
+b = int(input())
+print(a/b)
